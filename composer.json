@@ -1,0 +1,21 @@
+{
+  "name": "skyline-project/component-template",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas Abplanalp",
+      "email": "info@tasoft.ch"
+    }
+  ],
+  "require": {
+    "skyline/component-skyline": "^0.8"
+  },
+  "require-dev": {
+    "skyline/compiler": "^0.8"
+  },
+  "scripts": {
+    "post-create-project-cmd": [
+      "npm install"
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd74687d-4ec4-488e-9a97-fc8dd896d504" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="/usr/local/bin/composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP XAMPP 7.2.1">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/method-signature" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/service-manager" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/php-string-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/mime" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/config" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/tools-path" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/tasoft/collection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/skyline/kernel" />
+      <path value="$PROJECT_DIR$/vendor/skyline/router" />
+      <path value="$PROJECT_DIR$/vendor/skyline/direct-components" />
+      <path value="$PROJECT_DIR$/vendor/skyline/html-elements" />
+      <path value="$PROJECT_DIR$/vendor/skyline/exposed-symbols" />
+      <path value="$PROJECT_DIR$/vendor/skyline/html-render" />
+      <path value="$PROJECT_DIR$/vendor/skyline/render" />
+      <path value="$PROJECT_DIR$/vendor/skyline/compiler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="66" />
+    <option name="y" value="64" />
+    <option name="width" value="2494" />
+    <option name="height" value="1372" />
+  </component>
+  <component name="ProjectId" id="1iJxolMSXjayWl41UKaAXB91Am6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Build JS">
+    <configuration name="Build CSS" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build:css" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Build Component" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Build JS" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build:js" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.Build CSS" />
+      <item itemvalue="npm.Build JS" />
+      <item itemvalue="npm.Build Component" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd74687d-4ec4-488e-9a97-fc8dd896d504" name="Default Changelist" comment="" />
+      <created>1554740082768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554740082768</updated>
+      <workItem from="1554740084262" duration="1349000" />
+      <workItem from="1601639673356" duration="100000" />
+      <workItem from="1601639814737" duration="3076000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1601641241265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601641241265</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1601641969988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601641969988</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <created>1601642860902</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601642860902</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3342" y="367" width="1071" height="793" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601642794556">
+      <screen x="2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="3342" y="367" width="1071" height="793" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1417/2560.23.2560.1417@2560.23.2560.1417" timestamp="1601642794556" />
+    <state x="3414" y="281" key="CommitChangelistDialog2" timestamp="1601642860507">
+      <screen x="2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="3414" y="281" key="CommitChangelistDialog2/0.23.2560.1417/2560.23.2560.1417@2560.23.2560.1417" timestamp="1601642860507" />
+    <state width="2299" height="390" key="GridCell.Tab.0.bottom" timestamp="1601641379216">
+      <screen x="2560" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2299" height="390" key="GridCell.Tab.0.bottom/0.23.2560.1417/2560.23.2560.1417@2560.23.2560.1417" timestamp="1601641379216" />
+    <state width="2299" height="390" key="GridCell.Tab.0.center" timestamp="1601641379215">
+      <screen x="2560" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2299" height="390" key="GridCell.Tab.0.center/0.23.2560.1417/2560.23.2560.1417@2560.23.2560.1417" timestamp="1601641379215" />
+    <state width="2299" height="390" key="GridCell.Tab.0.left" timestamp="1601641379215">
+      <screen x="2560" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2299" height="390" key="GridCell.Tab.0.left/0.23.2560.1417/2560.23.2560.1417@2560.23.2560.1417" timestamp="1601641379215" />
+    <state width="2299" height="390" key="GridCell.Tab.0.right" timestamp="1601641379215">
+      <screen x="2560" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2299" height="390" key="GridCell.Tab.0.right/0.23.2560.1417/2560.23.2560.1417@2560.23.2560.1417" timestamp="1601641379215" />
+    <state x="3379" y="342" key="SettingsEditor" timestamp="1601642893427">
+      <screen x="2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="3379" y="342" key="SettingsEditor/0.23.2560.1417/2560.23.2560.1417@2560.23.2560.1417" timestamp="1601642893427" />
+    <state x="3477" y="445" key="Vcs.Push.Dialog.v2" timestamp="1601642870487">
+      <screen x="2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="3477" y="445" key="Vcs.Push.Dialog.v2/0.23.2560.1417/2560.23.2560.1417@2560.23.2560.1417" timestamp="1601642870487" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>BSD-3-New</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

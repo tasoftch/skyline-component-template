@@ -1,5 +1,6 @@
 {
   "name": "skyline-project/component-template",
+  "description": "Skyline CMS Component template to create css and js files that can be required by templates",
   "license": "MIT",
   "authors": [
     {

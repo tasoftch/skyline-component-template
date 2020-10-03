@@ -11,7 +11,7 @@ return [
     	// Use the JavaScriptComponent to load the scripts in html head tag, so before any content gets loaded.
 		"js-pre" => new JavaScriptComponent(
 				...AbstractComponent::makeLocalFileComponentArguments(
-				"/Public/js/your-component-uri.js",
+				"/Public/Skyline/your-component-uri.js",
 				__DIR__ . "/dist/skyline-component-template.min.js"
 			)
 		),
@@ -19,7 +19,7 @@ return [
 		// Use the JavaScriptPostLoadComponent to load the script after loading the html page (at end of body tag).
         "js" => new JavaScriptPostLoadComponent(
         	...AbstractComponent::makeLocalFileComponentArguments(
-				"/Public/js/your-component-uri.js",
+				"/Public/Skyline/your-component-uri.js",
 				__DIR__ . "/dist/skyline-component-template.min.js"
 			)
         ),
@@ -27,7 +27,7 @@ return [
         "css" => new CSSComponent(
         	// CSS components are always loaded before the body contents.
 			...AbstractComponent::makeLocalFileComponentArguments(
-				"/Public/js/your-component-uri.css",
+				"/Public/Skyline/your-component-uri.css",
 				__DIR__ . "/dist/skyline-component-template.min.css",
 				'sha384',
 				NULL,
